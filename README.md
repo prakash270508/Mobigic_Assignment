@@ -53,16 +53,16 @@ Open your web browser and visit http://127.0.0.1:5173/ to access the frontend.
 
 # Frontend:
 
-Vite: Fast frontend build tool
-React: JavaScript library for building user interfaces
-Axios: Promise-based HTTP client for making API requests
-React Router: Declarative routing for React applications
-Other dependencies specified in client/package.json
+1. Vite: Fast frontend build tool
+2. React: JavaScript library for building user interfaces
+3. Axios: Promise-based HTTP client for making API requests
+4. React Router: Declarative routing for React applications
+5. Other dependencies specified in client/package.json
 
 # Backend:
 
-Express: Web application framework for Node.js
-Multer: Middleware for handling file uploads
-Mongoose: MongoDB object modeling for Node.js
-Other dependencies specified in server/package.json
+1. Express: Web application framework for Node.js
+2. Multer: Middleware for handling file uploads
+3. Mongoose: MongoDB object modeling for Node.js
+4. Other dependencies specified in server/package.json
 
