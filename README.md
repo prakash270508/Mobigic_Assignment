@@ -27,20 +27,21 @@ The project is organized into two main directories:
    cd <repository-name>
 
 # Install frontend dependencies
-cd client
-npm install
+1. cd client
+2. npm install
 
 # Install backend dependencies
+
 cd server
 npm install
 
 # Start the frontend server
-cd client
-npm run dev
+1. cd client
+2.  npm run dev
 
 # Start the backend server
-cd ../server
-npm start
+1. cd server
+2. node index or  nodemon index
 
 
 
